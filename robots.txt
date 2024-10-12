@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://meykoe.github.io/PQr/sitemap.PQr.gz
